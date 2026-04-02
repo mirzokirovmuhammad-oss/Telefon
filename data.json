@@ -1,0 +1,58 @@
+[
+  {
+    "image": "https://castore.uz/upload/iblock/541/rfsnyp1681zmfi0c6zlccrtq75dc2uui/smartfon-iphone-13-pro-max-256gb-sierra-blue.jpg",
+    "name": "Iphone 13 pro max",
+    "about": "Yomkust:85",
+    "price": "350$",
+    "id": "1"
+  },
+  {
+    "image": "https://tezz.uz/uploads/images/product/594/thumbs/215656-422422.jpg",
+    "name": "Iphone 14 pro max",
+    "about": "Yomkust:91",
+    "price": "550$",
+    "id": "2"
+  },
+  {
+    "image": "https://minapi.beemarket.uz/prod-media/productImages/17181110966i7LRFRC5LEA.webp",
+    "name": "Iphone 15 pro max",
+    "about": "Yomkust:94",
+    "price": "850$",
+    "id": "3"
+  },
+  {
+    "image": "https://stores-apple.com/upload/resize_cache/iblock/aaa/600_600_140cd750bba9870f18aada2478b24840a/uv5l1os8cw1nro8pso8nsfx9xtzuvi4f.jpg",
+    "name": "Iphone 16 pro max",
+    "about": "Yomkost:99",
+    "price": "1000$",
+    "id": "4"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuz1WNXuv47BOIPkA_lRDNg4tS4LsldCMuIw&s",
+    "name": "Iphone 17 pro max",
+    "about": "Yomkost:100",
+    "price": "1550$",
+    "id": "5"
+  },
+  {
+    "image": "https://hi-stores.ru/upload/iblock/66b/tkt8lqyzm313nt18s88rn8go69mpki2g.jpg",
+    "name": "Iphone eir",
+    "about": "Yomkost:100",
+    "price": "900%",
+    "id": "6"
+  },
+  {
+    "image": "https://minapi.beemarket.uz/prod-media/productImages/1718190705gygfkAVcwVvP.webp",
+    "name": "Samsung S24 ultra",
+    "about": "Holati zor",
+    "price": "800$",
+    "id": "7"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XO1H4Jt9UjUXzX03dr1nmPcn_SyUgV8-mA&s",
+    "name": "Samsung S25 ultra",
+    "about": "Holati zor",
+    "price": "1100$",
+    "id": "8"
+  }
+]

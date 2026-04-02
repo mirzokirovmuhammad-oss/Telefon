@@ -1,0 +1,29 @@
+.bx{
+    width: 300px;
+    border:  2px solid gray;
+    text-align: center;
+
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 80px;
+    margin-top: 80px;
+    
+}
+.inp{
+    width: 240px;
+    height: 40px;
+    border-radius: 3px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.btn{
+    width: 70px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: green;
+    color: white;
+    border: none;
+}
